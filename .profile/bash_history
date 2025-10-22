@@ -37,3 +37,4 @@ python quiz_game_6.py
 cd WWTBAM/
 cp quiz_game_6.py quiz_game_final.py
 git config pull.ff only
+git merge --no-ff
