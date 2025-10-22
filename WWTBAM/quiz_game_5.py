@@ -1,0 +1,1 @@
+results[player_name] = score
